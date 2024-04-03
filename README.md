@@ -1,6 +1,6 @@
 ### Hello! My name is Rose 👋
 
-##### C언어를 가장 좋아합니다
+##### 저는 요즘 백준 알고리즘 풀이를 블로그에 기록하고 있습니다. 주로 C언어를 사용하고 있고 최근에는 JAVA를 공부하고 있는 코린이랍니다 *^_^*
 
 <!--
 **yellowmarten/yellowmarten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
